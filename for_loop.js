@@ -19,12 +19,12 @@ Do While Loop
 // console.log(dataList[5]);
 
 //For in loop
-const obj ={
-    liton : 90,
-    konok : 85,
-    tanzid : 75,
-    noman : 65,
-}
+// const obj ={
+//     liton : 90,
+//     konok : 85,
+//     tanzid : 75,
+//     noman : 65,
+// }
 // console.log(obj);
 
 // for (let name in obj){
